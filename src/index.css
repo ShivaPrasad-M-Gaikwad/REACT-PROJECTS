@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ymg>* {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@font-face {
+  font-family: 'POP';
+  src: url("./huddle-landing-page-with-alternating-feature-blocks-Assets/Poppins.ttf") format('TrueType');
+}
