@@ -64,7 +64,7 @@ function Footer(): JSX.Element {
             <FaTwitter className="h-8 w-8 border rounded-full p-1 hover:text-pink-600 hover:border-pink-600" />
             <FaInstagram className="h-8 w-8 border rounded-full p-1 hover:text-pink-600 hover:border-pink-600" />
           </div>
-          <div className="Copyright w-full flex justify-center">
+          <div className="Copyright w-full flex justify-center mt-10">
             <p>&#169; Copyright 2018 Huddle. All rights reserved.</p>
           </div>
         </div>
