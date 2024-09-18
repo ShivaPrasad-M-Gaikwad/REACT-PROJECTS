@@ -13,7 +13,7 @@ function Hero(): JSX.Element {
         </button>
       </div>
       <div className="master-content w-[80%] flex flex-col md:flex-row justify-around">
-        <div className="Text-Content items-center flex flex-col my-5 ymg">
+        <div className="Text-Content flex flex-col my-5 ymg">
           <div className="bigheading font-bold text-2xl lg:text-6xl leading-relaxed">
             Build The Community Your Fans Will Love
           </div>
